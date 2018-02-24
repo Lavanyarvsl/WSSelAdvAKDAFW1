@@ -1,0 +1,53 @@
+2018-01-03 20:15:06,936 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-01-03 20:15:40,709 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-01-03 20:15:40,829 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-01-03 20:15:40,829 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-01-03 20:15:40,924 - com.qspiders.KeyDriver - INFO - StepCount:19
+2018-01-03 20:15:41,090 - com.qspiders.KeyDriver - INFO - To Verify the title of the element
+2018-01-03 20:15:41,115 - com.qspiders.Library - INFO - Title is correct:Qspiders
+2018-01-03 20:15:41,246 - com.qspiders.KeyDriver - INFO - To wait for specified second
+2018-01-03 20:15:43,248 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:43,395 - com.qspiders.KeyDriver - INFO - To enter the text
+2018-01-03 20:15:43,610 - com.qspiders.Library - INFO - Element found with id un
+2018-01-03 20:15:44,045 - com.qspiders.Library - INFO - Entering "bhanu"
+2018-01-03 20:15:44,161 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:15:46,161 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:46,272 - com.qspiders.KeyDriver - INFO - To remove the value  present in the filed
+2018-01-03 20:15:46,301 - com.qspiders.Library - INFO - Element found with id un
+2018-01-03 20:15:46,535 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:15:48,535 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:48,635 - com.qspiders.KeyDriver - INFO - To verify that specified element is present 
+2018-01-03 20:15:48,666 - com.qspiders.Library - INFO - Element found with id un
+2018-01-03 20:15:48,666 - com.qspiders.Library - INFO - Element found 
+2018-01-03 20:15:48,770 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:15:50,770 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:50,875 - com.qspiders.KeyDriver - INFO - To click on the element
+2018-01-03 20:15:51,089 - com.qspiders.Library - INFO - Element found with xpath //button
+2018-01-03 20:15:51,589 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:15:53,589 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:53,685 - com.qspiders.KeyDriver - INFO - To Verify whether alert popup is displayed or not
+2018-01-03 20:15:53,701 - com.qspiders.Library - INFO - Alert popup displayed: 
+2018-01-03 20:15:53,787 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:15:55,788 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:55,913 - com.qspiders.KeyDriver - INFO - To Click "OK" on alert popup
+2018-01-03 20:15:55,961 - com.qspiders.Library - INFO - Alert popup accepted: 
+2018-01-03 20:15:56,054 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:15:58,055 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:15:58,135 - com.qspiders.KeyDriver - INFO - To click on the element
+2018-01-03 20:15:58,166 - com.qspiders.Library - INFO - Element found with xpath //button
+2018-01-03 20:15:58,355 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:16:00,355 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:16:00,449 - com.qspiders.KeyDriver - INFO - To Click "Cancel" on alert popup
+2018-01-03 20:16:00,482 - com.qspiders.Library - INFO - Alert popup dismissed: 
+2018-01-03 20:16:00,581 - com.qspiders.KeyDriver - INFO - 
+2018-01-03 20:16:02,581 - com.qspiders.Library - INFO - Wait for 2 seconds
+2018-01-03 20:16:02,681 - com.qspiders.KeyDriver - INFO - To verify the text of the element
+2018-01-03 20:16:02,745 - com.qspiders.Library - INFO - Element found with xpath //button
+2018-01-03 20:16:02,864 - com.qspiders.Library - INFO - Text is correct:Try it
+2018-01-03 20:16:02,864 - com.qspiders.KeyDriver - INFO - Ending scenario:Scenario1
+2018-01-03 20:16:02,864 - com.qspiders.KeyDriver - INFO - !!!! Execution Status of above scenario:PASS !!!!
+2018-01-03 20:16:02,864 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-01-03 20:16:02,950 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-01-03 20:16:02,950 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario2
+2018-01-03 20:16:03,659 - com.qspiders.KeyDriver - INFO - Total Pass:1 ; Total Fail:0 ; Total Skip:1
+2018-01-03 20:16:03,659 - com.qspiders.KeyDriver - INFO - **********************Ending Frame Work**********************
